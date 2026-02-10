@@ -55,7 +55,3 @@ Each problem instance is provided as a text file with one line per bulb, specify
 - A **README file** explaining compilation and execution instructions
 
 ---
-
-## Academic Integrity
-
-This project was completed independently (or in a declared binôme), in accordance with ULB’s academic integrity rules. Any external resources used are properly cited in the report.
