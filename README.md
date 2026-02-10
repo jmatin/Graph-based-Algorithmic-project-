@@ -51,7 +51,6 @@ Each problem instance is provided as a text file with one line per bulb, specify
 ## Deliverables
 
 - A **scientific report** (written in LaTeX, PDF format)
-- A **Java program** implementing the algorithms
-- A **README file** explaining compilation and execution instructions
-
+- A **Java program and a python program** implementing the algorithms
+-
 ---
