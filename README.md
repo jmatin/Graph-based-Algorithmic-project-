@@ -1,7 +1,7 @@
 
 ## Project Overview
 
-This project was developed for the course **Algorithmique 2 (INFO‑F203)** at the **Université libre de Bruxelles (ULB)**, under the supervision of **Jean Cardinal**.
+This project was developed for the course **Algorithmique 2** at the **Université libre de Bruxelles (ULB)**.
 
 The project studies a combinatorial lighting problem defined on a square grid of horizontal and vertical cables, where light bulbs are connected at specific intersections. Each bulb is controlled by two switches (row and column), and its activation depends on predefined combinations of switch positions.
 
